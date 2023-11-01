@@ -1,0 +1,1 @@
+[![Gradle Build](https://github.com/Gamidov-M/Selenium_Order_a_card/actions/workflows/main.yml/badge.svg)](https://github.com/Gamidov-M/Selenium_Order_a_card/actions/workflows/main.yml)
